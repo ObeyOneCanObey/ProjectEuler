@@ -1,5 +1,5 @@
 # ProjectEuler
-Inefficient Solns to Project Euler \n
+Inefficient Solns to Project Euler
 projecteuler.net : ObeyOneCanObey
 
 
